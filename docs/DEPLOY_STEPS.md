@@ -1,4 +1,3 @@
-# Ultra Step-by-Step — Put Your Dashboard Live (No Compromises)
 
 ## Option A — Render.com (recommended)
 
