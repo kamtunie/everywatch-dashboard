@@ -1,5 +1,6 @@
 # Everywatch — CEO Dashboard App (Flask)
-
+## Live app
+https://everywatch-dashboard.onrender.com/
 **Prepared by:** Kamil Tuniewicz • **Date:** Sep 30, 2025
 
 This app serves a single static HTML dashboard (Plotly + vanilla JS). No transformations, 1:1 with the signed-off file.
