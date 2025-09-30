@@ -1,7 +1,11 @@
 # Everywatch — Executive Auction Dashboard
 
+<p align="center">
+  <img src="assets/everywatch_banner.png" alt="Everywatch Executive Auction Dashboard" width="100%">
+</p>
 
-**Live app:** https://everywatch-dashboard.onrender.com/  
+## Live app
+https://everywatch-dashboard.onrender.com/  
 > First load may take a few seconds on the free tier (cold start).
 
 A sample project of an interactive dashboard for auction market intelligence using the supplied dataset.  
